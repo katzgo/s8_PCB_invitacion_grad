@@ -578,6 +578,30 @@
     [
       "0fbb077c-90d4-448e-ab47-dd55f81ae618",
       "Root"
+    ],
+    [
+      "1316ecf9-f512-45dd-985f-10ce346eb685",
+      "LEDSchem"
+    ],
+    [
+      "83c1fda9-d948-4412-ab04-883b77f4e00a",
+      "LEDSchem1"
+    ],
+    [
+      "7572e683-4c99-46ab-ac9e-ddb4fd1f5c16",
+      "LEDSchem2"
+    ],
+    [
+      "24bcbb4f-a47f-444d-b51d-4e6c9312651c",
+      "LEDSchem3"
+    ],
+    [
+      "68c1699e-6fd8-43c0-824c-e694f652d43d",
+      "LEDSchem4"
+    ],
+    [
+      "3c7b05bd-ebca-404f-8ae4-53e7d03f00e0",
+      "LEDSchem5"
     ]
   ],
   "text_variables": {}
