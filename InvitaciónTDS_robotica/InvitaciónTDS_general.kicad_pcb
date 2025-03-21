@@ -10135,6 +10135,7 @@
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "41fd7889-4cd9-43c9-b20e-10033b378ea1")
 			(effects
 				(font
@@ -29424,29 +29425,6 @@
 				(xy 134.314075 53.547007) (xy 134.28 53.674174) (xy 134.28 53.805826) (xy 134.314075 53.932993)
 				(xy 134.346988 53.99) (xy 132.673012 53.99) (xy 132.705925 53.932993) (xy 132.74 53.805826) (xy 132.74 53.674174)
 				(xy 132.705925 53.547007) (xy 132.673012 53.49) (xy 134.346988 53.49)
-			)
-		)
-	)
-	(zone
-		(net 13)
-		(net_name "GND")
-		(layer "F.Cu")
-		(uuid "96cb135a-4741-44a4-8885-04f18c7cad97")
-		(hatch edge 0.5)
-		(priority 1)
-		(connect_pads
-			(clearance 0.5)
-		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(fill yes
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy -53.4 50.390923) (xy 59.1 51.890923) (xy 60.6 -59.609077) (xy -53.4 -61.609077) (xy -54.4 -60.609077)
-				(xy -53.4 -58.109077)
 			)
 		)
 	)
